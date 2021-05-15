@@ -26,4 +26,9 @@ If I have a spare ⏲️, I write code for infrastructure automation or explore 
 
 - Useful commands for manual Linux server provisioning: http://linuxcmds.optrin.org
 
+<a href="https://github.com/nicklasfrahm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicklasfrahm&show_icons=true" alt="Appleboy's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicklasfrahm&layout=compact" alt="Appleboy's github top languages" />
+</a>
+
 [mykilio]: https://mykil.io
