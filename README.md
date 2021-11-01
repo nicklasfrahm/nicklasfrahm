@@ -26,6 +26,7 @@ I ❤️ the 💡 of single board computers, low ⚡ consumption and low 💰. I
 ### 🔖 Bookmarks
 
 - 🐧 [Useful commands and configuration for Linux](https://gist.github.com/nicklasfrahm/b9e7d7ce87a82154b5549bb69e3aff47)
+- ⚓ [Testing ground for debugging webhooks](https://webhook.site/)
 
 ### 📈 Statistics
 
