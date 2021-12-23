@@ -11,17 +11,19 @@ I ❤️ the 💡 of single board computers, low ⚡ consumption and low 💰. I
 
 ### 🚩 Quick facts
 
-- 🔭 I’m currently working on [mykilio][mykilio], the proposal for a new infrastructure automation ecosystem.
 - 🌱 I’m currently learning netbooting, baremetal provisioning and Go.
-- 🤔 I’m looking for help with [mykilio][mykilio]. Create issues, give me crazy ideas or open a PR. Let's create something cool.
 - 💬 Ask me about Kubernetes, Linux, networking, embedded software development, PCB design and IoT.
-- 😄 Pronouns: he/they
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I broke my first computer, a used Dell Dimension 4550, because curious 12-year-old me took the CPU out of the socket. This is when computer science and engineering got a hold of me.
 
 ### 🚀 Production-ready projects
 
-- 🔑 [File to Secret for GitHub Actions](https://github.com/nicklasfrahm/file-secret-action)
 - 🚀 [SCP File Transfer for GitHub Actions](https://github.com/nicklasfrahm/scp-action)
+
+### 🧪 Experimental projects
+
+- ⚡ [Mykilio, a library to quickly write distributed, event-driven microservices](https://github.com/mykilio)
+- 🍄 [Cremini, an open-source and open-hardware blade server](https://github.com/nicklasfrahm/cremini)
 
 ### 🔖 Bookmarks
 
@@ -34,5 +36,3 @@ I ❤️ the 💡 of single board computers, low ⚡ consumption and low 💰. I
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicklasfrahm&show_icons=true" alt="Nicklas' GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicklasfrahm&layout=compact" alt="Nicklas' GitHub top languages" />
 </a>
-
-[mykilio]: https://mykil.io
